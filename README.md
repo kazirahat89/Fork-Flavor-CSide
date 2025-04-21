@@ -59,7 +59,7 @@ This Recipe Sharing Community is a full-stack web application designed for cooki
 1. **Clone the repository**
 
    ```sh
-   https://github.com/yasin-arafat-389/Fork & Flavor-Client
+   https://github.com/kazirahat89/Fork-Flavor-CSide.git
    ```
 
    2. **Navigate to the project directory**
